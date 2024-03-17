@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Лазанья: простий рецепт італійської страви",
+        "time": "1 година 20 хвилин",
+        "difficulty": "Помірно",
+        "link": "https://klopotenko.com/lazania-prostyj-reczept-italijskoi-stravy/"
+    },
+    {
+        "name": "Курячі крильця у медово-соєвому соусі",
+        "time": "45 хвилин",
+        "difficulty": "Легко",
+        "link": "https://klopotenko.com/kuriachi-krylczia-u-medovo-soyevomu-sousi/"
+    },
+    {
+        "name": "Страва на кожен день. Рублені котлети з курки від Євгена Клопотенка",
+        "time": "40 хвилин",
+        "difficulty": "Легко",
+        "link": "https://klopotenko.com/strava-na-kozhen-den-rubleni-kotlety-z-kurky-vid-yevgena-klopotenka/"
+    },
+    {
+        "name": "Улюблена страва британців. М’ясний пиріг з картопляним пюре від Євгена Клопотенка",
+        "time": "1 година 10 хвилин",
+        "difficulty": "Помірно",
+        "link": "https://klopotenko.com/uliublena-strava-brytancziv-m’iasnyj-pyrig-z-kartoplianym-piure-vid-yevgena-klopotenka/"
+    },
+    {
+        "name": "Корисніший варіант. Равіолі з цільнозернового борошна від Євгена Клопотенка",
+        "time": "1 година",
+        "difficulty": "Помірно",
+        "link": "https://klopotenko.com/korysnishyj-variant-ravioli-z-czilnozernovogo-boroshna-vid-yevgena-klopotenka/"
+    },
+    {
+        "name": "Домашня ковбаса в духовці від Євгена Клопотенка",
+        "time": "1 год 45 хв",
+        "difficulty": "Помірно",
+        "link": "https://klopotenko.com/domashnia-kovbasa-v-duhovczi-vid-yevgena-klopotenka/"
+    },
+    {
+        "name": "Домашні равіолі з куркою і томатним соусом від Євгена Клопотенка",
+        "time": "1 година",
+        "difficulty": "Складно",
+        "link": "https://klopotenko.com/domashni-ravioli-z-kurkoiu-i-tomatnym-sousom-vid-yevgena-klopotenka/"
+    },
+    {
+        "name": "Із соусом болоньєзе. Мʼясні канелоні в духовці від Євгена Клопотенка",
+        "time": "1 год 15 хв",
+        "difficulty": "Помірно",
+        "link": "https://klopotenko.com/iz-sousom-bolonyeze-mʼiasni-kaneloni-v-duhovczi-vid-yevgena-klopotenka/"
+    },
+    {
+        "name": "Налисники з м’ясом від Євгена Клопотенка",
+        "time": "1 год 40 хв",
+        "difficulty": "Помірно",
+        "link": "https://klopotenko.com/nalysnyky-z-m’iasom-vid-yevgena-klopotenka/"
+    },
+    {
+        "name": "Із хрусткою скоринкою. Рецепт справжнього австрійського шніцеля",
+        "time": "7 хвилин",
+        "difficulty": "Легко",
+        "link": "https://klopotenko.com/iz-hrustkoiu-skorynkoiu-reczept-spravzhnogo-avstrijskogo-shniczelia/"
+    },
+    {
+        "name": "Італійська історія. Канелоні з фаршем від Євгена Клопотенка",
+        "time": "1 год 10 хв",
+        "difficulty": "Помірно",
+        "link": "https://klopotenko.com/italijska-istoriia-kaneloni-z-farshem-vid-yevgena-klopotenka/"
+    },
+    {
+        "name": "Соковита індичка, запечена в мультиварці за рецептом Євгена Клопотенка",
+        "time": "40 хв",
+        "difficulty": "Легко",
+        "link": "https://klopotenko.com/sokovyta-indychka-zapechena-v-multyvarczi-za-reczeptom-yevgena-klopotenka/"
+    }
+]
